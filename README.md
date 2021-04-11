@@ -3,7 +3,11 @@
 
 My name is Emirhan Demir. I live in Turkey.
 
-![Emirhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=demiremirhan&show_icons=true)
+![Emirhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=demiremirhan&show_icons=true&theme=radical) )
+
+## Skills 💻
+
+C / Embedded Software / C++ / C# / ST / MSSQL / MATLAB
 
 ## Job
 
