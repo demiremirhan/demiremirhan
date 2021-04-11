@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! And welcome to my github. 👋
 <img src="https://github.com/demiremirhan/demiremirhan/blob/main/logo.png" width="auto">
 
 
