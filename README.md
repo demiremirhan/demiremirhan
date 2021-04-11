@@ -1,18 +1,27 @@
 ### Hi! And welcome to my github. 👋
-<img src="https://github.com/demiremirhan/demiremirhan/blob/main/logo.png" width="auto">
 
 
-<!--
-**demiremirhan/demiremirhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Emirhan Demir. I live in Turkey.
 
-Here are some ideas to get you started:
+![Emirhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=demiremirhan&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Job
+
+
+
+## I'm currently working on 🔭
+
+RentalCar Project Backend (https://github.com/demiremirhan/RentalCarRM)
+				  Frontend(https://github.com/demiremirhan/car_rental_frontend)
+## Know / Using 🧠
+
+<code><a href="https://www.microsoft.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
+<code><a href="https://code.visualstudio.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
+<code><a href="https://www.postman.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></a></code>
+
+## Contact Me 📫
+
+You can find and get touch with me on these accounts!
+
+[![Linkedin Badge](https://img.shields.io/badge/emirhandemir-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emirhandemir10/)
+
