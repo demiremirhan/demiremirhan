@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=demiremirhan&show_icons=true&theme=radical) 
 <!--
 **demiremirhan/demiremirhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
