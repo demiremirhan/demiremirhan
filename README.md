@@ -7,7 +7,7 @@ My name is Emirhan Demir. I live in Turkey.
 
 ## Job
 
-
+I'm currently unemployment but i am doing my best for my skills and seeking a job 
 
 ## I'm currently working on 🔭
 
