@@ -7,11 +7,11 @@ My name is Emirhan Demir. I live in Turkey.
 
 ## Skills 📝
 
-C / Embedded Software / C++ / C# / ST / MSSQL / MATLAB
+Java / Selenium / C# / Embedded Software / C++ / C / ST / MSSQL / MATLAB
 
 ## Job💻
 
-I'm currently unemployment but i am doing my best for my skills and seeking a job 
+I'm currently working at Testinium since June 2021
 
 ## I'm currently working on 🔭
 
