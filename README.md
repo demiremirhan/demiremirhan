@@ -7,16 +7,12 @@ My name is Emirhan Demir. I live in Turkey.
 
 ## Skills 📝
 
-Java / Selenium / C# / Embedded Software / C++ / C / ST / MSSQL / MATLAB
+Java / Selenium / C# / TestCafe / Javascript
 
 ## Job💻
 
 I'm currently working at Testinium since June 2021
 
-## I'm currently working on 🔭
-
-RentalCar Project Backend (https://github.com/demiremirhan/RentalCarRM)
-				  Frontend(https://github.com/demiremirhan/car_rental_frontend)
 ## Know / Using 🧠
 
 <code><a href="https://www.microsoft.com/" target="_blank"><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/visual-studio.svg"></a></code>
