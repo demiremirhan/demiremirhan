@@ -1,33 +1,53 @@
-### Hi! And welcome to my github. 👋
+# Hi, I'm Emirhan 👋
 
+**QA Automation Engineer / SDET** based in Wuppertal, Germany.  
+4+ years of experience building test automation frameworks for banking and fintech — Garanti BBVA & Akbank.
 
-My name is Emirhan Demir. I live in Turkey.
+---
 
-![Emirhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=demiremirhan&show_icons=true&theme=radical) )
+## 🔧 Core Stack
 
-## Skills 📝
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![REST Assured](https://img.shields.io/badge/REST%20Assured-005F9E?style=flat)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-Java / Selenium / C# / TestCafe / Javascript
+---
 
-## Job💻
+## 🚀 Featured Project
 
-I'm currently working at Testinium since June 2021
+### [qa-automation-showcase](https://github.com/demiremirhan/qa-automation-showcase)
+Multi-module Maven project demonstrating production-grade QA automation practices.
 
-## Know / Using 🧠
+- ✅ **API Tests** — REST Assured + JUnit 5 targeting DummyJSON API
+- ✅ **UI Tests** — Selenium WebDriver with Page Object Model
+- ✅ **BDD** — Cucumber/Gherkin feature files
+- ✅ **CI/CD** — GitHub Actions pipeline with Allure reports published to GitHub Pages
+- 🔄 **Docker** — containerization in progress
 
-<code><a href="https://www.selenium.dev/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png"></a></code>
-<code><a href="https://code.visualstudio.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
-<code><a href="https://www.postman.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></a></code>
-<code><a href="https://www.microsoft.com/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg"></a></code>
-<code><a href="https://www.mathworks.com/" target="_blank"><img height="50" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_matlab.svg"></a></code>
-<code><a href="https://www.codesys.com/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_CoDeSys.svg"></a></code>
-<code><a href="https://testcafe.io/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/TestCafe_Logo.png"></a></code>
+📊 [Live Allure Report](https://demiremirhan.github.io/qa-automation-showcase)
 
+---
 
+## 📌 About Me
 
-## Contact Me 📫
+- 🎓 M.Sc. Industrial Engineering (IT & Digitalization) — Bergische Universität Wuppertal
+- 🏦 Previously: Testinium Teknoloji → consulting for Garanti BBVA & Akbank
+- 📜 ISTQB CTFL certified
+- 🇩🇪 Based in Germany — EU Blue Card eligible (§18g AufenthG)
 
-You can find and get touch with me on these accounts!
+---
 
-[![Linkedin Badge](https://img.shields.io/badge/emirhandemir-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emirhandemir10/)
+## 📫 Connect
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/emirhandemir10)
+[![XING](https://img.shields.io/badge/XING-006567?style=flat&logo=xing&logoColor=white)](https://www.xing.com/profile/Emirhan_Demir038243)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@demiremirhan)
+[![Website](https://img.shields.io/badge/Website-demiremirhan.com-333?style=flat)](https://demiremirhan.com)
