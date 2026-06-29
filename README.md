@@ -38,7 +38,7 @@ Multi-module Maven project demonstrating production-grade QA automation practice
 
 ## 📌 About Me
 
-- 🎓 M.Sc. Industrial Engineering (IT & Digitalization) — Bergische Universität Wuppertal
+- 🎓 M.Sc. Industrial Engineering (IT & Digitalization) — Bergische Universität Wuppertal (in progress)
 - 🏦 Previously: Testinium Teknoloji → consulting for Garanti BBVA & Akbank
 - 📜 ISTQB CTFL certified
 - 🇩🇪 Based in Germany — EU Blue Card eligible (§18g AufenthG)
