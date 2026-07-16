@@ -23,16 +23,16 @@
 
 ## 🚀 Featured Project
 
-### [qa-automation-showcase](https://github.com/demiremirhan/qa-automation-showcase)
+### [test-automation-framework](https://github.com/demiremirhan/test-automation-framework)
 Multi-module Maven project demonstrating production-grade QA automation practices.
 
 - ✅ **API Tests** — REST Assured + JUnit 5 targeting DummyJSON API
 - ✅ **UI Tests** — Selenium WebDriver with Page Object Model
-- ✅ **BDD** — Cucumber/Gherkin feature files
 - ✅ **CI/CD** — GitHub Actions pipeline with Allure reports published to GitHub Pages
-- 🔄 **Docker** — containerization in progress
+- ✅ **Docker** — Selenium Grid via Docker Compose
+- 🔄 **BDD** — planned
 
-📊 [Live Allure Report](https://demiremirhan.github.io/qa-automation-showcase)
+📊 [Live Allure Report](https://demiremirhan.github.io/test-automation-framework)
 
 ---
 
